@@ -50,6 +50,6 @@ Any errors encountered during image loading will be printed to the console.
 * The script saves the overlay images in PNG format to preserve transparency.
 * Feel free to modify and customize the script to suit your specific requirements.
 
-#License
+# License
 This script is provided under the MIT License. You can find more details in the `LICENSE` file.
 
