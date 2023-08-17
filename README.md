@@ -40,7 +40,7 @@ This function takes an image file path as input, opens the image using the PIL l
 ```sh
 python ArtBlendTool.py
 ```
-
+ 
 The script iterates over each image in the `layer1` folder and loads it as the base image. It then iterates over each image in the `layer2` folder, overlays it with the base image, and saves the resulting overlay image in the `results` folder with a unique filename.
 
 Any errors encountered during image loading will be printed to the console.
