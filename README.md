@@ -1,5 +1,4 @@
 # ArtBlendTool
-# Image Overlay and Background Removal
 
 This script allows you to overlay images from two different folders while removing the white background from the overlay images. The resulting overlay images are saved in a specified results folder. It's a versatile tool that helps you create unique compositions by combining images.
 
@@ -16,7 +15,7 @@ You can install these libraries using the following command:
 ```sh
 pip install numpy pillow
 
-Setup
+# Setup
 Set the WHITE_THRESHOLD variable in the script to adjust the threshold for identifying the white background. This threshold determines which pixels are considered white.
 
 Define the paths for the layer1_folder, layer2_folder, and results_folder. These paths should point to the folders where your input images are stored and where you want the output images to be saved.
